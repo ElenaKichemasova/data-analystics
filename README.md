@@ -23,7 +23,7 @@
 <p>Как решала: краткое описание решения<p>
 
 
-> <a href="https://https://github.com/ElenaKichemasova/data-analystics/blob/main/Когортный анализ в Excel.xlsx">Ссылка на проект</a>
+> <a href="https://https://https://github.com/ElenaKichemasova/data-analystics/blob/main/Когортный анализ в Excel.xlsx">Ссылка на проект</a>
 
 <p>Выводы(итоги):</p>
 <ol>
