@@ -19,3 +19,11 @@
   <li>Задача №1</li>
   <li>Задача №2</li>
 </ol>
+
+<p>Как решала: краткое описание решения<p>
+
+
+> <a href="https://github.com/Skyproportfolio/data-analystics-5month/blob/main/Проект№20№1.xlsx">Ссылка на проект</a>
+
+<p>Выводы(итоги):</p>
+<ol>
