@@ -33,7 +33,6 @@
 
 
 > <a href="https://github.com/ElenaKichemasova/data-analystics/blob/main/Когортный анализ в Excel.xlsx">Ссылка на проект</a>
-> <a href="https://metabase.sky.pro/question/82692">Ссылка на проект</a>
 
 <p>Выводы(итоги):</p>
   <ol>
